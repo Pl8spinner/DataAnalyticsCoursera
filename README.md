@@ -1,2 +1,2 @@
 # Hello_World
-First repository
+Introductory document in first github repository.
